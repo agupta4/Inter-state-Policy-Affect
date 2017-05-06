@@ -1,4 +1,4 @@
-__author__ = 'fengchen'
+__author__ = 'Ethical Druids'
 
 from sklearn.linear_model import LogisticRegression
 from sklearn import svm
